@@ -1,0 +1,65 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "a10f3c"
+		},
+		{
+			"path": "a11f3c"
+		},
+		{
+			"path": "a33f4c"
+		},
+		{
+			"path": "a16f3c"
+		},
+		{
+			"path": "a34f4c"
+		},
+		{
+			"path": "a36f4c"
+		},
+		{
+			"path": "a35f4c"
+		},
+		{
+			"path": "a2ef4c"
+		},
+		{
+			"path": "a2af4c"
+		},
+		{
+			"path": "a2hf4c"
+		},
+		{
+			"path": "a4f4c"
+		},
+		{
+			"path": "a9f4c"
+		},
+		{
+			"path": "a12f4c"
+		},
+		{
+			"path": "a29f4c"
+		},
+		{
+			"path": "a7f5c"
+		},
+		{
+			"path": "a37f5c"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"stdlib.h": "c",
+			"stdbool.h": "c",
+			"typeinfo": "c",
+			"type_traits": "c",
+			"string.h": "c"
+		}
+	}
+}
